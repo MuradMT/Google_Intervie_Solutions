@@ -1,0 +1,16 @@
+C:\Users\LEGION\C# codes\UmumiHeller\Eolimp_Solutions\bin\Debug\Eolimp_Solutions.exe.config
+C:\Users\LEGION\C# codes\UmumiHeller\Eolimp_Solutions\bin\Debug\Eolimp_Solutions.exe
+C:\Users\LEGION\C# codes\UmumiHeller\Eolimp_Solutions\bin\Debug\Eolimp_Solutions.pdb
+C:\Users\LEGION\C# codes\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\C# codes\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.exe
+C:\Users\LEGION\C# codes\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.pdb
+C:\Users\LEGION\C# codes\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.csproj.AssemblyReference.cache
+C:\Users\LEGION\C# codes\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\C# Projects\UmumiHeller\Eolimp_Solutions\bin\Debug\Eolimp_Solutions.exe.config
+C:\Users\LEGION\C# Projects\UmumiHeller\Eolimp_Solutions\bin\Debug\Eolimp_Solutions.exe
+C:\Users\LEGION\C# Projects\UmumiHeller\Eolimp_Solutions\bin\Debug\Eolimp_Solutions.pdb
+C:\Users\LEGION\C# Projects\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.csproj.AssemblyReference.cache
+C:\Users\LEGION\C# Projects\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\C# Projects\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\C# Projects\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.exe
+C:\Users\LEGION\C# Projects\UmumiHeller\Eolimp_Solutions\obj\Debug\Eolimp_Solutions.pdb
